@@ -1,0 +1,12 @@
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.margins-component {
+  margin: 10px !important;
+}
